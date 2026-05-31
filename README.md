@@ -52,21 +52,21 @@ http://localhost:5173
 
 # Screenshots
 
-## Login Page
-
-![Login Page](./screenshots/login.png)
-
----
-
 ## Register Page
 
-![Register Page](./screenshots/register.png)
+[Register Page Screenshot](https://drive.google.com/file/d/1aegJt1c5D8JvujgzoElQErQRiSUSSOLQ/view?usp=drive_link)
 
 ---
 
-## Dashboard Page
+## Login Page
 
-![Dashboard Page](./screenshots/dashboard.png)
+[Login Page Screenshot](https://drive.google.com/file/d/1FKYz7virYWEB31FiM8ml3pgAcAOnPAfj/view?usp=drive_link)
+
+---
+
+## User Dashboard
+
+[User Dashboard Screenshot](https://drive.google.com/file/d/13dnFtfPRRVnzswvRHJdOg2FYDQC_kJbC/view?usp=drive_link)
 
 ---
 
